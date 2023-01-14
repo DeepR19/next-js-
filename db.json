@@ -1,0 +1,38 @@
+{       
+    "dashboard": {
+        "posts": 42,
+        "likes" : 123,
+        "followers": 12,
+        "following": 3423
+    },
+    "news" : [
+        {
+            "id": 1,
+            "title": "Product 1",
+            "price": 1000,
+            "description": "Description 1",
+            "category" : "image"
+        },
+        {
+            "id": 2,
+            "title": "Product 2",
+            "price": 2000,
+            "description": "Description 2",
+            "category" : "video"
+        },
+        {
+            "id": 3,
+            "title": "Product 3",
+            "price": 300,
+            "description": "Description 13",
+            "category" : "image"
+        },
+        {
+            "id": 4,
+            "title": "Product 4",
+            "price": 2932,
+            "description": "Description 132",
+            "category" : "image"
+        }
+    ]
+}
