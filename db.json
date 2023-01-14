@@ -34,5 +34,38 @@
             "description": "Description 132",
             "category" : "image"
         }
+    ],
+    "events" : [
+        {
+            "id": 1,
+            "title": "Product 1",
+            "date": "Febuary 12",
+            "description": "Description 1",
+            "category" : "image"
+        },
+        {
+            "id": 2,
+            "title": "Product 2",
+            "date": "Febuary 12",
+            "price": 2000,
+            "description": "Description 2",
+            "category" : "video"
+        },
+        {
+            "id": 3,
+            "title": "Product 3",
+            "price": 300,
+            "date": "Febuary 12",
+            "description": "Description 13",
+            "category" : "image"
+        },
+        {
+            "id": 4,
+            "title": "Product 4",
+            "date": "Febuary 12",
+            "price": 2932,
+            "description": "Description 132",
+            "category" : "image"
+        }
     ]
 }
