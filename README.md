@@ -1,3 +1,31 @@
+#[NEXT-JS](https://nextjs.org/)
+#### Start learn next js
+
+*** Some topics list are ***
+<ol>
+  <li>preRendering</li>
+  <li>getStaticProps</li>
+  <li>getStaticPaths</li>
+  <li>getServerSideProps</li>
+  <li>getServerSideProps <i>-- with dynamic parameters</i></li>
+  <ol type="a">
+    {***Routing***}
+    <li>static routing</li>
+    <li>dynamic routing</li>
+    <li>nested routing</li>
+    <li>catch all routing</li>
+  </ol>
+
+  
+  <li>SWR</li>
+  <li>SSR</li>
+  <li>SSG</li>
+
+</ol>
+
+---
+---
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
